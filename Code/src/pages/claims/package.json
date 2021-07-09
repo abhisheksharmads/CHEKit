@@ -1,0 +1,6 @@
+{
+  "name": "claims",
+  "version": "0.0.0",
+  "main": "Claims.js",
+  "private": true
+}

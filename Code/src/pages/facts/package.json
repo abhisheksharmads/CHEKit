@@ -1,0 +1,6 @@
+{
+  "name": "facts",
+  "version": "0.0.0",
+  "main": "Facts.js",
+  "private": false
+}

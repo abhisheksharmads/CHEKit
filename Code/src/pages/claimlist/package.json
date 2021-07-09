@@ -1,0 +1,6 @@
+{
+  "name": "claimlist",
+  "version": "0.0.0",
+  "main": "ClaimList.js",
+  "private": true
+}

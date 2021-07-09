@@ -1,0 +1,6 @@
+{
+  "name": "factitem",
+  "version": "0.0.0",
+  "main": "FactItem.js",
+  "private": false
+}
