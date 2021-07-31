@@ -1,6 +1,7 @@
-# A community based fact-checking website
+# CHEKit! A Community Based Fact-Checking Web Application
 
-This is a Community-based Fact-checking website which has been developed using the MongoDB, Express, React and Node.js
+1) This is a Community-based Fact-checking website which has been developed using the MongoDB, Express, React and Node.js
+2) The purpose of this research was to spread awareness and showcase the importance of fact-checking on a community level, where users can interact and give verdicts on a fact given by the other users.
 
 ## Getting Started
 
